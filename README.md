@@ -7,7 +7,7 @@
     Testing and understanding how it works
     <br />
     <br />
-    <img src="_README.md/app.gif" alt="gif">
+<!--     <img src="_README.md/app.gif" alt="gif"> -->
   </p>
 </p>
 
